@@ -23,6 +23,8 @@ include: package:lints/recommended.yaml
 #   exclude:
 #     - path/to/excluded/files/**
 
+formatter:
+  page_width: 95
 # For more information about the core and recommended set of lints, see
 # https://dart.dev/go/core-lints
 

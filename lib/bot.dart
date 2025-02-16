@@ -1,2 +1,2 @@
 export 'src/commands/ping.dart' show ping;
-export 'src/commands/toss_coin.dart' show tossCoin;
+export 'src/commands/play_game/play_game.dart' show playGame;
